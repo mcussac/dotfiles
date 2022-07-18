@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = madeleine.cussac@gmail.com
+	name = Madeleine Cussac
